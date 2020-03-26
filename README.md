@@ -1,4 +1,4 @@
-# Proxy42
+# zdOS-Proxy
 
 Note: Proxy42 is a work in progress, and is currently not recommended for
 production use.
