@@ -1,21 +1,21 @@
 # zdOS-Proxy
 
-Note: Proxy42 is a work in progress, and is currently not recommended for
+Note:zdOS-Proxy Pis a work in progress, and is currently not recommended for
 production use.
 
-Proxy42 is an open source high-performance API Gateway. Working in conjunction
+zdOS-Proxy is an open source high-performance API Gateway. Working in conjunction
 with APInf platform, it is designed to make APIs and microservices easy to
 manage by providing load balancing, authentication, rate limiting, content
 transformation and aggregation, logging and monitoring.
 
-Proxy42 runs on the erlang VM, which provides a solid base for building
+zdOS-Proxy runs on the erlang VM, which provides a solid base for building
 distributed, low-latency, soft-realtime systems, and is built on vegur, the
 router powering Heroku.
 
-Proxy42 can be deployed to any cloud provider, to your own servers, or to
+zdOS-Proxy can be deployed to any cloud provider, to your own servers, or to
 embedded devices such as raspberry pi.
 
-Proxy42 is at an early stage of development. Currently the API gateway supports
+zdOS-Proxy is at an early stage of development. Currently the API gateway supports
 
  - HTTP administrative control API
  - Mounting APIs on different paths under the same domain
